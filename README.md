@@ -1,6 +1,6 @@
 # Tech_Mental
 TECH MENTAL DATA ANALYSIS
-ABOUT DATASET
+<p> ABOUT DATASET
 This dataset contains a survey about how employees see, understand and handle mental health.
 In the eyes of the society, there is a conception that tech industry is a very demanding industry and there by affects mental health. Interestingly, the importance of data analytics is to be able to support or dispute some of these assumptions with data.
 According to Aditi Muyle, Kaggle, Mental health affects your emotional, psychological and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. In the workplace, communication and inclusion are keys skills for successful high performing teams or employees. The impact of mental health to an organization can mean an increase of absent days from work and a decrease in productivity and engagement. In the United States, approximately 70% of adults with depression are in the workforce. Employees with depression will miss an estimated 35 million workdays a year due mental illness. Those workers experiencing unresolved depression are estimated to encounter a 35% drop in their productivity, costing employers $105 billion dollars each year. 
